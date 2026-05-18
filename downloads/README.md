@@ -5,6 +5,7 @@
 - [mhrv-rs-android-universal-v1.9.21](./mhrv-rs-android-universal-v1.9.21)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [orig-1601_019_AR_EN](./orig-1601_019_AR_EN)
+- [rp2040-5.6.0](./rp2040-5.6.0)
 - [vless-config-creator-v2.0.0](./vless-config-creator-v2.0.0)
 - [windows-x64-nsis](./windows-x64-nsis)
 
