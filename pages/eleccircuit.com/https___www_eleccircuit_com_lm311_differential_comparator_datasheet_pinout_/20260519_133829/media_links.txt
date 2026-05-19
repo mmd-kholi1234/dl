@@ -1,0 +1,15 @@
+//www.eleccircuit.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif
+https://www.eleccircuit.com/wp-content/uploads/2018/10/cropped-Eleccircuit-icon-web-300x300.png
+https://www.eleccircuit.com/wp-content/uploads/2022/06/Apichet-Garaipoom-ElecCircuit.jpg
+https://www.eleccircuit.com/wp-content/uploads/2022/06/eleccircuit-logo.svg
+https://www.eleccircuit.com/wp-content/uploads/2024/03/ElecCircuit-vol-4.jpg
+https://www.eleccircuit.com/wp-content/uploads/2025/04/Elec-Circuit-Vol1-cover-100.webp
+https://www.eleccircuit.com/wp-content/uploads/2025/04/Elec-Circuit-Vol2-cover-100.webp
+https://www.eleccircuit.com/wp-content/uploads/2025/04/Elec-Circuit-Vol3-cover-100.webp
+https://www.eleccircuit.com/wp-content/uploads/2025/04/Elec-Circuit-Vol4-cover-100.png
+https://www.eleccircuit.com/wp-content/uploads/2025/04/LM311-High-speed-Differential-Comparator-Datasheet-and-Pinouts.webp
+https://www.eleccircuit.com/wp-content/uploads/2025/04/functional-block-diagram-lm311.webp
+https://www.eleccircuit.com/wp-content/uploads/2025/04/lm311-pinout.webp
+https://www.eleccircuit.com/wp-content/uploads/2025/04/schematic-diagram-lm311.webp
+https://www.onsemi.com/download/data-sheet/pdf/lm211-d.pdf
+https://www.ti.com/lit/ds/symlink/lm211.pdf

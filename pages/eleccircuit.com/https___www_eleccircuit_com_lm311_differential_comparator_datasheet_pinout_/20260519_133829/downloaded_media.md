@@ -1,0 +1,17 @@
+## Downloaded Media Files
+
+![lazy_placeholder.gif](./media/lazy_placeholder.gif)
+![cropped-Eleccircuit-icon-web-300x300.png](./media/cropped-Eleccircuit-icon-web-300x300.png)
+![Apichet-Garaipoom-ElecCircuit.jpg](./media/Apichet-Garaipoom-ElecCircuit.jpg)
+![eleccircuit-logo.svg](./media/eleccircuit-logo.svg)
+![ElecCircuit-vol-4.jpg](./media/ElecCircuit-vol-4.jpg)
+![Elec-Circuit-Vol1-cover-100.webp](./media/Elec-Circuit-Vol1-cover-100.webp)
+![Elec-Circuit-Vol2-cover-100.webp](./media/Elec-Circuit-Vol2-cover-100.webp)
+![Elec-Circuit-Vol3-cover-100.webp](./media/Elec-Circuit-Vol3-cover-100.webp)
+![Elec-Circuit-Vol4-cover-100.png](./media/Elec-Circuit-Vol4-cover-100.png)
+![LM311-High-speed-Differential-Comparator-Datasheet-and-Pinouts.webp](./media/LM311-High-speed-Differential-Comparator-Datasheet-and-Pinouts.webp)
+![functional-block-diagram-lm311.webp](./media/functional-block-diagram-lm311.webp)
+![lm311-pinout.webp](./media/lm311-pinout.webp)
+![schematic-diagram-lm311.webp](./media/schematic-diagram-lm311.webp)
+- [lm211-d.pdf](./media/lm211-d.pdf) (380 KB)
+- [lm211.pdf](./media/lm211.pdf) (2336 KB)
