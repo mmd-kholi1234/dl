@@ -14,3 +14,5 @@
 ![favicon](pages/reddit.com/https___www_reddit_com_r_GalaxyS8_comments_6gfif6_how_effective_would_the_secure_folder_be_as_a_/20260519_062026/media/favicon.ico) 5- [reddit.com](pages/reddit.com/https___www_reddit_com_r_GalaxyS8_comments_6gfif6_how_effective_would_the_secure_folder_be_as_a_/20260519_062026/index.md)
 
 ![favicon](pages/eleccircuit.com/https___www_eleccircuit_com_lm311_differential_comparator_datasheet_pinout_/20260519_133829/media/favicon.ico) 6- [eleccircuit.com](pages/eleccircuit.com/https___www_eleccircuit_com_lm311_differential_comparator_datasheet_pinout_/20260519_133829/index.md)
+
+![favicon](pages/faq.yamaha.com/https___faq_yamaha_com_usa_s_article_000025680/20260520_053900/media/favicon.ico) 7- [faq.yamaha.com](pages/faq.yamaha.com/https___faq_yamaha_com_usa_s_article_000025680/20260520_053900/index.md)
